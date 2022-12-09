@@ -74,6 +74,7 @@ const Confirm = styled.div`
 `;
 
 const Checkbox = styled.input`
+  background: transparent;
   width: 30px;
   height: 30px;
   margin-right: 21px;
