@@ -24,6 +24,7 @@ const Header = styled.h1`
 `;
 
 const Input = styled.input`
+  background: transparent;
   font-size: 20px;
   outline: none;
   border-width: 0 0 1.55px;
