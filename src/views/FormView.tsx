@@ -76,7 +76,7 @@ const Checkbox = styled.input`
   width: 30px;
   height: 30px;
   margin-right: 21px;
-  background: #000000;
+  
 `;
 const Button = styled.button`
   width: 224.3px;
